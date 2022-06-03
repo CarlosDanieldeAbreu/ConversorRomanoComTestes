@@ -59,16 +59,16 @@ namespace ConversorNumero.Teste
         }
 
         [TestMethod]
-        [DataRow("XI", 11)]
-        [DataRow("XII", 12)]
-        [DataRow("XIII", 13)]
-        [DataRow("XIV", 14)]
-        [DataRow("XV", 15)]
-        [DataRow("XVI", 16)]
-        [DataRow("XVII", 17)]
-        [DataRow("XVIII", 18)]
-        [DataRow("XIX", 19)]
-        [DataRow("XX", 20)]
+        [DataRow("LI", 51)]
+        [DataRow("LII", 52)]
+        [DataRow("LIII", 53)]
+        [DataRow("LIV", 54)]
+        [DataRow("LV", 55)]
+        [DataRow("LVI", 56)]
+        [DataRow("LVII", 57)]
+        [DataRow("LVIII", 58)]
+        [DataRow("LIX", 59)]
+        [DataRow("LX", 60)]
         public void Deve_converter_numeros_romanos_do_51_ao_60(string numero, int resultadoEsperado)
         {
             string numeroRomano = numero;
