@@ -1,0 +1,15 @@
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\bin\Debug\net5.0\NumerosRomanos.Input.deps.json
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\bin\Debug\net5.0\NumerosRomanos.Input.dll
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\bin\Debug\net5.0\NumerosRomanos.Input.pdb
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\bin\Debug\net5.0\ConversorNumero.Dominio.dll
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\bin\Debug\net5.0\ConversorNumero.Dominio.pdb
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.AssemblyInfo.cs
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.csproj.CopyComplete
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.dll
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\refint\NumerosRomanos.Input.dll
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\NumerosRomanos.Input.pdb
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\NumerosRomanos.Input\obj\Debug\net5.0\ref\NumerosRomanos.Input.dll

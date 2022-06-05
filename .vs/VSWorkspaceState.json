@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConversorNumero.Dominio",
+    "\\ConversorNumero.Teste"
   ],
-  "SelectedNode": "\\C:\\Users\\Carlos Daniel\\Source\\Repos\\ConversorRomanoComTestes",
+  "SelectedNode": "\\ConversorNumero.Dominio\\ConversorNumeroRomanoParaArabico.cs",
   "PreviewInSolutionExplorer": false
 }

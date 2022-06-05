@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NumerosRomanos.Input/1.0.0": {
+        "dependencies": {
+          "ConversorNumero.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "NumerosRomanos.Input.dll": {}
+        }
+      },
+      "ConversorNumero.Dominio/1.0.0": {
+        "runtime": {
+          "ConversorNumero.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumerosRomanos.Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConversorNumero.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

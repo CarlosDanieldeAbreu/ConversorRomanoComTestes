@@ -101,13 +101,13 @@ C:\Users\Carlos Daniel\source\repos\ConversorRomano\ConversorNumero\ConversorNum
 C:\Users\Carlos Daniel\source\repos\ConversorRomano\ConversorNumero\ConversorNumero.Teste\obj\Debug\net5.0\ConversorNumero.Teste.genruntimeconfig.cache
 C:\Users\Carlos Daniel\source\repos\ConversorRomano\ConversorNumero\ConversorNumero.Teste\obj\Debug\net5.0\ref\ConversorNumero.Teste.dll
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\testhost.exe
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\testhost.dll
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\testhost.exe
+C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\Microsoft.TestPlatform.AdapterUtilities.dll
-C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\ConversorNumero.Teste.deps.json
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\ConversorNumero.Teste.runtimeconfig.json
 C:\Users\Carlos Daniel\Source\Repos\ConversorRomanoComTestes\ConversorNumero.Teste\bin\Debug\net5.0\ConversorNumero.Teste.runtimeconfig.dev.json
